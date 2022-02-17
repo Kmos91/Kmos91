@@ -4,7 +4,7 @@
 ✨ Criador de projetos
 😎 Futuro Full Stack
 
-<div style="display: inline_block" align="center">
+<div style="display: inline_block">
   <a href="https://github.com/Kmos91">
   <img height="155em" src="https://github-readme-stats.vercel.app/api?username=Kmos91&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
   <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kmos91&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
