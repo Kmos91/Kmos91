@@ -1,6 +1,6 @@
 ## Olá! Eu sou Kevin Magno🤴🏿
 
-🧐 Estudando HTML, CSS e JS
+🧐 Estudando HTML, CSS, JAVA e JS
 ✨ Criador de projetos
 😎 Futuro Full Stack
 
@@ -10,9 +10,10 @@
   <img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kmos91&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="JAVA" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/226/226777.png">
   <img align="right" alt="Avatar-Kmos" height="150" style="border-radius:50px;"
   src="https://cdn.discordapp.com/attachments/898556580017102921/943208402086133820/Avatar-kmos_-_Editado_por_kevin.png">
 </div>
