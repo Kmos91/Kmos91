@@ -1,6 +1,6 @@
 ## Olá! Eu sou Kevin Magno🤴🏿
 
-🧐 Estudando HTML, CSS, JAVA e JS
+🧐 Estudando HTML, CSS, JS e JAVA
 ✨ Criador de projetos
 😎 Futuro Full Stack
 
