@@ -35,3 +35,7 @@
 <p align="left">Sou um programado apaixonado por aprendizado contínuo. Estou sempre buscando novos conhecimentos e desafios para me desenvolver ainda mais na área de programação !!</p>
 
 ###
+
+<img src="https://raw.githubusercontent.com/Kmos91/Kmos91/output/snake.svg" alt="Snake animation" />
+
+###
