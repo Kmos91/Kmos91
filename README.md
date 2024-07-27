@@ -1,25 +1,35 @@
-## Olá! Eu sou Kevin Magno🤴🏿
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kmos91&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=highcontrast&locale=en&hide_border=true" height="130" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kmos91&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=highcontrast&hide_border=true" height="121" alt="languages graph"  />
+</div>
 
-🧐 Estudando HTML, CSS, JS e JAVA
-✨ Criador de projetos
-😎 Futuro Full Stack
+###
 
-<div style="display: inline_block">
-  <a href="https://github.com/Kmos91">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Kmos91&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
-  <img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kmos91&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
 </div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="JAVA" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/226/226777.png">
-  <img align="right" alt="Avatar-Kmos" height="150" style="border-radius:50px;"
-  src="https://cdn.discordapp.com/attachments/898556580017102921/943208402086133820/Avatar-kmos_-_Editado_por_kevin.png">
+
+###
+
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
-  
-##
-  
-<div>
-  <a href = "mailto:kevinmagno91@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-</div>
+
+###
+
+<h2 align="center">Olá !</h2>
+
+###
+
+<p align="left">Sou um programado apaixonado por aprendizado contínuo. Estou sempre buscando novos conhecimentos e desafios para me desenvolver ainda mais na área de programação !!</p>
+
+###
