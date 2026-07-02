@@ -4,9 +4,110 @@
 
 Estou em constante evolução e gosto de transformar ideias em projetos práticos, com foco em aprender, organizar o código e criar soluções úteis.
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Kmos91&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=highcontrast&locale=en&hide_border=true)
+### Linguagens principais
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs?username=Kmos91&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=highcontrast&hide_border=true)
+```html
+<section>
+    <div class="field language details">
+        <div class="field">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                <path fill="#3178c6" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+            </svg>
+            TypeScript
+        </div>
+        <small>
+            <div>28.57%</div>
+            <div>8★</div>
+        </small>
+    </div>
+    <div class="field language details">
+        <div class="field">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                <path fill="#f34b7d" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+            </svg>
+            C++
+        </div>
+        <small>
+            <div>10.71%</div>
+            <div>3★</div>
+        </small>
+    </div>
+    <div class="field language details">
+        <div class="field">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                <path fill="#dea584" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+            </svg>
+            Rust
+        </div>
+        <small>
+            <div>3.57%</div>
+            <div>1★</div>
+        </small>
+    </div>
+    <div class="field language details">
+        <div class="field">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                <path fill="#701516" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+            </svg>
+            Ruby
+        </div>
+        <small>
+            <div>3.57%</div>
+            <div>1★</div>
+        </small>
+    </div>
+</section>
+<section>
+    <div class="field language details">
+        <div class="field">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                <path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+            </svg>
+            JavaScript
+        </div>
+        <small>
+            <div>25%</div>
+            <div>7★</div>
+        </small>
+    </div>
+    <div class="field language details">
+        <div class="field">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                <path fill="#555555" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+            </svg>
+            C
+        </div>
+        <small>
+            <div>10.71%</div>
+            <div>3★</div>
+        </small>
+    </div>
+    <div class="field language details">
+        <div class="field">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                <path fill="#140f46" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+            </svg>
+            CodeQL
+        </div>
+        <small>
+            <div>3.57%</div>
+            <div>1★</div>
+        </small>
+    </div>
+    <div class="field language details">
+        <div class="field">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                <path fill="#b07219" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+            </svg>
+            Java
+        </div>
+        <small>
+            <div>3.57%</div>
+            <div>1★</div>
+        </small>
+    </div>
+</section>
+```
 
 > As imagens de estatísticas dependem de um serviço externo e podem temporariamente não carregar.
 
