@@ -1,10 +1,14 @@
 # Olá! Eu sou Kmos91
 
-Sou um programador apaixonado por aprendizado contínuo. Estou sempre buscando novos conhecimentos e desafios para me desenvolver ainda mais na área de programação.
+### Sobre mim
+
+Estou em constante evolução e gosto de transformar ideias em projetos práticos, com foco em aprender, organizar o código e criar soluções úteis.
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Kmos91&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=highcontrast&locale=en&hide_border=true)
 
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs?username=Kmos91&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=highcontrast&hide_border=true)
+
+> As imagens de estatísticas dependem de um serviço externo e podem temporariamente não carregar.
 
 ### Tecnologias
 
@@ -13,10 +17,6 @@ Sou um programador apaixonado por aprendizado contínuo. Estou sempre buscando n
 - CSS
 - Python
 - Git
-
-### Sobre mim
-
-Estou em constante evolução e gosto de transformar ideias em projetos práticos, com foco em aprender, organizar o código e criar soluções úteis.
 
 ### Projetos e objetivos
 
