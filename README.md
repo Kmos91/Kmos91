@@ -1,38 +1,23 @@
-<br clear="both">
+# <p align="center">💻 Olá, eu sou o Kevin !💻</p>
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-</div>
+Sou um programado apaixonado por aprendizado contínuo. Estou sempre buscando novos conhecimentos e desafios para me desenvolver ainda mais na área de programação !!
 
-###
 
-<div align="center">
-  
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
+### <p align="center">🛠️ Tecnologias & Ferramentas !</p>
 
-###
+<p align="center">
+  <img alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" style="margin-right: 5px; margin-left: 5px;" />
+  <img alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" style="margin-right: 5px; margin-left: 5px;" />
+  <img alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" style="margin-right: 5px; margin-left: 5px;" />
+</p>
 
-<h2 align="center">Olá !</h2>
 
-###
 
-<p align="left">Sou um programado apaixonado por aprendizado contínuo. Estou sempre buscando novos conhecimentos e desafios para me desenvolver ainda mais na área de programação !!</p>
+### <p align="center">📊 Estatísticas do GitHub</p>
 
-###
+<p align="center">
+  <img height="180" src="https://github-stats-extended.vercel.app/api?username=Kmos91&show_icons=true&theme=dark" alt="Estatísticas do GitHub" style="margin-right: 10px;" />
+  <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Kmos91&show_icons=true&theme=dark" alt="Linguagens mais usadas" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kmos91&radius=16&theme=high-contrast&area=true&order=5&hide_border=true&hide_title=false" height="300" alt="activity-graph graph"  />
-</div>
-
-###
+<p align="center">Em eterna edição !!</p>
