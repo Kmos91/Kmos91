@@ -9,6 +9,7 @@ Sou um programado apaixonado por aprendizado contínuo. Estou sempre buscando no
   <img alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" style="margin-right: 5px; margin-left: 5px;" />
   <img alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" style="margin-right: 5px; margin-left: 5px;" />
   <img alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" style="margin-right: 5px; margin-left: 5px;" />
+  <img alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" style="margin-right: 5px; margin-left: 5px;" />
 </p>
 
 
